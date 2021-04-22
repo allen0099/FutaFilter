@@ -42,6 +42,7 @@
 ||pressyourmum.com^
 ||ptt01.cc^
 ||ptt01.tv^
+||qastack.cn^
 ||read01.com^
 ||setn.com^
 ||stackoom.com^
